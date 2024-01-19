@@ -1,0 +1,2 @@
+
+SELECT COUNT(*) FROM `fifa` WHERE IDADE > 35
